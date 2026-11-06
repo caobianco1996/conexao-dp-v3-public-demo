@@ -1,0 +1,57 @@
+.calc-shortcuts {
+  display: grid;
+  gap: 0;
+  margin: 0 0 14px;
+  padding: 0;
+}
+
+.calc-shortcut-group {
+  display: grid;
+  grid-template-columns: minmax(155px, 190px) minmax(0, 1fr);
+  align-items: start;
+  gap: 12px;
+  padding: 8px 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.calc-shortcut-group:first-child { padding-top: 0; }
+.calc-shortcut-group:last-child { border-bottom: 0; }
+
+.calc-shortcut-group h2 {
+  margin: 5px 0 0;
+  color: var(--muted);
+  font-size: 10px;
+  font-weight: 750;
+  letter-spacing: .045em;
+  line-height: 1.35;
+  text-transform: uppercase;
+}
+
+.calc-shortcut-options {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+  min-width: 0;
+}
+
+.calc-shortcut-options .btn {
+  flex: 0 0 auto;
+  min-height: 28px;
+  padding: 4px 9px;
+  border-radius: 8px;
+  font-size: 11px;
+  white-space: nowrap;
+}
+
+body[data-theme="dark"] .calc-shortcut-group { border-color: var(--line); }
+
+@media (max-width: 650px) {
+  .calc-shortcut-group {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 5px;
+    padding: 9px 0;
+  }
+
+  .calc-shortcut-group h2 { margin-top: 0; }
+  .calc-shortcut-options .btn { font-size: 10px; }
+}

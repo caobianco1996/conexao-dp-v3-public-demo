@@ -1,0 +1,243 @@
+.lp-page{max-width:1580px;padding-top:18px}.lp-intro{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-bottom:12px}.lp-intro p{margin:0}.lp-intro .badge{font-size:10px;font-weight:650}.lp-source-alert,.lp-alert{padding:9px 12px;margin:8px 0;font-size:12px}.lp-note{margin:7px 0;color:var(--muted);font-size:11px}.lp-card,.lp-calendar-card,.lp-legacy,.lp-empty-card{margin:0 0 12px;padding:14px 15px;border:1px solid var(--line);border-radius:12px;background:#fff;box-shadow:0 3px 14px #09263a08}.lp-section-heading{display:flex;align-items:flex-start;justify-content:space-between;gap:14px;margin-bottom:12px}.lp-section-heading h2,.lp-section-heading h3{margin:0;font-size:15px;font-weight:750;color:var(--ink)}.lp-section-heading p{margin:3px 0 0;color:var(--muted);font-size:11px}.lp-section-heading>span{flex:none;color:var(--muted);font-size:10px}.lp-employee-card>.form-label,.lp-rule-form>.form-label,.lp-calculation-form>.form-label,.lp-save-row>.form-label{display:grid;gap:4px;margin:0;color:var(--muted);font-size:11px}.lp-page .form-control,.lp-page .form-select{min-height:34px;font-size:12px}.lp-employee-results{display:grid;max-height:270px;overflow:auto;margin-top:6px;border:1px solid var(--line);border-radius:9px;background:#fff}.lp-employee-option{display:flex;align-items:center;justify-content:space-between;gap:10px;width:100%;padding:9px 11px;border:0;border-bottom:1px solid var(--line);background:#fff;color:var(--ink);text-align:left}.lp-employee-option:last-child{border-bottom:0}.lp-employee-option:hover,.lp-employee-option.is-selected{background:#f1f6ff}.lp-employee-option>span:first-child{display:grid;gap:2px;min-width:0}.lp-employee-option strong{font-size:12px}.lp-employee-option small,.lp-employee-option .badge{color:var(--muted);font-size:10px}.lp-empty{margin:8px 0 0;color:var(--muted);font-size:11px}.lp-employee-results .lp-empty{padding:9px 11px}.lp-employee-summary{display:grid;grid-template-columns:1.1fr 1.1fr .8fr;gap:9px;margin-top:12px}.lp-employee-summary>div,.lp-result-summary>div{display:grid;gap:3px;min-width:0;padding:9px 10px;border:1px solid var(--line);border-radius:8px;background:#f8fafc}.lp-employee-summary span,.lp-result-summary span{color:var(--muted);font-size:10px}.lp-employee-summary strong,.lp-result-summary strong{overflow-wrap:anywhere;font-size:12px}.lp-employee-summary small,.lp-result-summary small{color:var(--muted);font-size:10px}.lp-benefit-card .lp-section-heading{align-items:center}.lp-benefit-switch{flex:none}.lp-benefit-switch .btn{font-size:11px;white-space:nowrap}.lp-rule-status{display:flex;align-items:center;gap:8px;flex-wrap:wrap;color:var(--muted);font-size:11px}.lp-rule-status .badge{font-size:10px}.lp-rule-details{margin-top:10px;border-top:1px solid var(--line);padding-top:9px}.lp-rule-details summary,.lp-memory summary,.lp-legacy summary{color:var(--blue);font-size:11px;font-weight:700;cursor:pointer}.lp-rule-form{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:9px 12px;margin-top:10px}.lp-rule-form .form-label{display:grid;align-content:start;gap:4px;margin:0;color:var(--muted);font-size:11px}.lp-rule-form .lp-rule-reason{grid-column:1/-1}.lp-rule-origin{grid-column:1/-1;margin:0;color:var(--muted);font-size:10px}.lp-rule-form>.btn{justify-self:start}.lp-calculation-form{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px 12px;align-items:end}.lp-calculation-form>.form-label{display:grid;gap:4px;margin:0;color:var(--muted);font-size:11px}.lp-wide{grid-column:1/-1}.lp-bank-toggle{display:flex;align-items:flex-start;gap:9px;grid-column:1/-1;padding:9px 10px;border:1px solid var(--line);border-radius:8px;background:#f8fafc;cursor:pointer}.lp-bank-toggle input{margin-top:3px}.lp-bank-toggle span{display:grid;gap:2px}.lp-bank-toggle strong{font-size:11px}.lp-bank-toggle small,.lp-form-note{margin:0;color:var(--muted);font-size:10px;line-height:1.45}.lp-form-actions{display:flex;align-items:center;gap:8px}.lp-form-actions .btn{font-size:11px}.lp-result-card{border-color:#b9d2ff}.lp-step-label{display:block;margin-bottom:3px;color:#2669c9;font-size:9px;font-weight:800;letter-spacing:.08em}.lp-result-summary{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:7px;margin:0 0 12px}.lp-result-summary>div:last-child{background:#eef5ff;border-color:#c6dcff}.lp-result-summary>div:last-child strong{color:#1556a8;font-size:16px}.lp-table-wrap{margin:0 0 10px;border:1px solid var(--line);border-radius:8px}.lp-table-wrap table{margin:0;color:var(--ink);font-size:11px}.lp-table-wrap th,.lp-table-wrap td{padding:7px 8px}.lp-table-wrap tfoot{background:#f6f9fc}.lp-memory{padding:9px 10px;border:1px solid var(--line);border-radius:8px;background:#fbfcfe}.lp-memory ul{display:grid;gap:4px;margin:8px 0;padding-left:18px;color:var(--ink);font-size:10px;line-height:1.45}.lp-memory>details{margin-top:8px;padding-top:8px;border-top:1px solid var(--line)}.lp-calendar-card{padding:12px;margin-top:10px;box-shadow:none}.lp-calendar-card .lp-section-heading{align-items:center;margin-bottom:8px}.lp-calendar-grid{display:grid;grid-template-columns:repeat(7,minmax(0,1fr));overflow:hidden;border:1px solid var(--line);border-radius:8px}.lp-weekday{padding:6px 3px;border-right:1px solid var(--line);border-bottom:1px solid var(--line);background:#f7f9fc;text-align:center;color:var(--muted);font-size:9px}.lp-weekday:nth-child(7){border-right:0}.lp-calendar-blank{min-height:76px;background:#f6f7f9;border-right:1px solid var(--line);border-bottom:1px solid var(--line)}.lp-calendar-day{position:relative;display:flex;flex-direction:column;gap:3px;min-width:0;min-height:76px;padding:5px;border-right:1px solid var(--line);border-bottom:1px solid var(--line);background:#fff;overflow:hidden}.lp-calendar-day:nth-child(7n){border-right:0}.lp-calendar-day.is-covered{background:#e8f5ed}.lp-calendar-day.is-uncovered{background:#fff8e7}.lp-calendar-day.is-rest{background:#f0f2f5}.lp-calendar-day.is-holiday{background:#e8edf3}.lp-day-number{font-size:10px;font-weight:750}.lp-day-holiday{overflow:hidden;color:#4f6172;text-overflow:ellipsis;white-space:nowrap;font-size:8px}.lp-day-lot{overflow:hidden;color:#245ca5;text-overflow:ellipsis;white-space:nowrap;font-size:8px}.lp-bank-mark{position:absolute;right:4px;top:3px;display:grid;place-items:center;width:14px;height:14px;border:1px solid #cbd5df;border-radius:50%;background:#fff;color:#778392;font-size:8px;font-weight:800}.lp-bank-mark.state-yes{border-color:#80cca0;color:#18864d}.lp-bank-mark.state-no{border-color:#e59a9a;color:#bd3434}.lp-pay-mark{align-self:flex-start;padding:1px 4px;border-radius:4px;background:#246fbd;color:#fff;font-size:8px;font-weight:750}.lp-legend{display:flex;flex-wrap:wrap;gap:7px 12px;margin-top:8px;color:var(--muted);font-size:9px}.lp-legend>span{display:flex;align-items:center;gap:5px}.lp-legend i{width:10px;height:10px;border:1px solid #d6dde4;border-radius:3px;background:#fff}.lp-legend i.is-covered{background:#e8f5ed}.lp-legend i.is-uncovered{background:#fff8e7}.lp-legend i.is-rest{background:#f0f2f5}.lp-legend i.is-bank{border-radius:50%;background:#c6ebd3}.lp-legend i.is-pay{background:#246fbd}.lp-save-row{display:grid;grid-template-columns:minmax(220px,1fr) auto;gap:8px 12px;align-items:end;margin-top:12px;padding:11px;border:1px solid #cfe0f8;border-radius:9px;background:#f7faff}.lp-save-row small{grid-column:1/-1;font-size:10px}.lp-save-row>.btn,.lp-save-row>div .btn{font-size:11px}.lp-saved-section{margin-top:18px}.lp-saved-section>.lp-section-heading{margin-bottom:9px}.lp-saved-list{display:grid;gap:8px}.lp-saved-card{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:5px 14px;padding:11px 12px;border:1px solid var(--line);border-radius:10px;background:#fff}.lp-saved-card.is-pinned{border-left:3px solid #2878f2}.lp-saved-open{display:grid;gap:3px;min-width:0;padding:0;border:0;background:none;color:var(--ink);text-align:left}.lp-saved-open>strong{font-size:12px}.lp-saved-open>span:not(.lp-saved-kicker){overflow-wrap:anywhere;color:var(--muted);font-size:10px}.lp-saved-open>small{color:var(--muted);font-size:9px}.lp-saved-kicker{color:#276dc9;font-size:9px;font-weight:800;letter-spacing:.05em}.lp-saved-actions{display:flex;align-items:flex-start;justify-content:flex-end;gap:5px;flex-wrap:wrap}.lp-saved-actions .btn{font-size:10px}.lp-expiry{grid-column:1/-1;color:var(--muted);font-size:9px}.lp-empty-card{padding:14px;color:var(--muted);font-size:11px}.lp-legacy{margin-top:12px}.lp-legacy ul{margin:8px 0;color:var(--ink);font-size:10px}
+body[data-theme="dark"] .lp-card,body[data-theme="dark"] .lp-calendar-card,body[data-theme="dark"] .lp-legacy,body[data-theme="dark"] .lp-empty-card,body[data-theme="dark"] .lp-saved-card{background:#142433;color:#e6edf4;border-color:#2b4052}body[data-theme="dark"] .lp-section-heading h2,body[data-theme="dark"] .lp-section-heading h3,body[data-theme="dark"] .lp-saved-open,body[data-theme="dark"] .lp-table-wrap table{color:#e6edf4}body[data-theme="dark"] .lp-employee-option,body[data-theme="dark"] .lp-employee-results{background:#142433;color:#e6edf4;border-color:#2b4052}body[data-theme="dark"] .lp-employee-option:hover,body[data-theme="dark"] .lp-employee-option.is-selected{background:#1c3550}body[data-theme="dark"] .lp-employee-summary>div,body[data-theme="dark"] .lp-result-summary>div,body[data-theme="dark"] .lp-bank-toggle,body[data-theme="dark"] .lp-memory,body[data-theme="dark"] .lp-save-row{background:#182b3a;border-color:#2b4052}body[data-theme="dark"] .lp-page .form-control,body[data-theme="dark"] .lp-page .form-select{background:#0d1c29;color:#e6edf4;border-color:#33495c}body[data-theme="dark"] .lp-calendar-day{background:#142433;color:#e6edf4;border-color:#2b4052}body[data-theme="dark"] .lp-calendar-day.is-covered{background:#18392e}body[data-theme="dark"] .lp-calendar-day.is-uncovered{background:#3a3422}body[data-theme="dark"] .lp-calendar-day.is-rest,body[data-theme="dark"] .lp-calendar-day.is-holiday,body[data-theme="dark"] .lp-calendar-blank{background:#1b2a38}body[data-theme="dark"] .lp-weekday,body[data-theme="dark"] .lp-table-wrap tfoot{background:#182b3a;color:#e6edf4}body[data-theme="dark"] .lp-bank-mark{background:#0d1c29;border-color:#33495c}body[data-theme="dark"] .lp-result-summary>div:last-child{background:#172d46;border-color:#3c5e8d}body[data-theme="dark"] .lp-result-summary>div:last-child strong{color:#b9d4ff}body[data-theme="dark"] .lp-step-label{color:#9ec2ff}
+@media(max-width:960px){.lp-calculation-form{grid-template-columns:repeat(2,minmax(0,1fr))}.lp-rule-form{grid-template-columns:repeat(2,minmax(0,1fr))}.lp-result-summary{grid-template-columns:repeat(2,minmax(0,1fr))}.lp-employee-summary{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:640px){.lp-page{padding:14px 10px 30px}.lp-intro{align-items:flex-start;flex-direction:column}.lp-card{padding:11px}.lp-section-heading{align-items:flex-start;flex-direction:column}.lp-benefit-card .lp-section-heading{align-items:flex-start}.lp-benefit-switch{width:100%}.lp-benefit-switch .btn{flex:1;white-space:normal}.lp-calculation-form,.lp-rule-form{grid-template-columns:1fr}.lp-calculation-form>.form-label,.lp-rule-form>.form-label,.lp-rule-form .lp-rule-reason,.lp-rule-origin,.lp-wide{grid-column:1}.lp-employee-summary,.lp-result-summary{grid-template-columns:1fr 1fr}.lp-result-summary>div:first-child{grid-column:1/-1}.lp-calendar-card{padding:8px}.lp-calendar-grid{overflow-x:auto;grid-template-columns:repeat(7,minmax(75px,1fr))}.lp-calendar-day,.lp-calendar-blank{min-height:70px}.lp-weekday{position:sticky;top:0}.lp-save-row{grid-template-columns:1fr}.lp-save-row small{grid-column:1}.lp-save-row>div{justify-self:start}.lp-saved-card{grid-template-columns:1fr}.lp-saved-actions{justify-content:flex-start}.lp-expiry{grid-column:1}.lp-table-wrap{font-size:10px}.lp-table-wrap th,.lp-table-wrap td{padding:6px}}
+/* Planejamento de Lotes: cobertura e contexto ficam visualmente separados. */
+.lp-calendar-day.is-uncovered{background:#fde8e8;color:#711f28}
+.lp-calendar-day.is-outside-period{background:#edf0f3;color:#778391}
+.lp-day-lot:empty{display:none}
+.lp-pay-mark.is-regular{background:#596b7b}
+.lp-legend i.is-uncovered{background:#fde8e8}
+body[data-theme="dark"] .lp-calendar-day.is-uncovered{background:#45272c;color:#f2c7cb}
+body[data-theme="dark"] .lp-calendar-day.is-outside-period{background:#202b35;color:#9aa8b5}
+.lp-list-filters{display:grid;grid-template-columns:minmax(220px,1fr) repeat(3,minmax(135px,.42fr));gap:8px;margin:0 0 9px;padding:10px;border:1px solid var(--line);border-radius:9px;background:#fff}
+.lp-list-filters>label{display:grid;gap:4px;margin:0;color:var(--muted);font-size:10px}
+.lp-snapshot-actions{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:10px;border:1px solid var(--line);border-radius:8px;background:#f8fafc}
+.lp-snapshot-actions p{margin:0;color:var(--muted);font-size:11px}
+.lp-rule-form small{color:var(--muted);font-size:9px}
+body[data-theme="dark"] .lp-list-filters,body[data-theme="dark"] .lp-snapshot-actions{background:#182b3a;border-color:#2b4052;color:#e6edf4}
+@media(max-width:760px){.lp-list-filters{grid-template-columns:repeat(2,minmax(0,1fr))}.lp-list-filters>label:first-child{grid-column:1/-1}}
+.lp-revision-history{margin-top:10px;padding:10px;border:1px solid var(--line);border-radius:8px;background:#f8fafc}
+.lp-revision-history>summary,.lp-revision>summary,.lp-revision-body details>summary{color:var(--blue);font-size:11px;font-weight:700;cursor:pointer}
+.lp-revision-list{display:grid;gap:7px;margin-top:8px}
+.lp-revision{padding:9px 10px;border:1px solid var(--line);border-radius:7px;background:#fff}
+.lp-revision-body{margin-top:8px;color:var(--ink);font-size:10px}
+.lp-revision-body p{margin:4px 0}
+.lp-revision-body ul{margin:7px 0;padding-left:18px;line-height:1.45}
+.lp-revision-body small{color:var(--muted)}
+body[data-theme="dark"] .lp-revision-history,body[data-theme="dark"] .lp-revision{background:#182b3a;border-color:#2b4052}
+body[data-theme="dark"] .lp-revision-body{color:#e6edf4}
+
+/* Planejamento de Lotes: composição compacta baseada na referência visual local. */
+.lp-page{width:100%;max-width:970px;margin-inline:auto;padding:16px 14px 34px}
+.lp-intro{display:flex;align-items:center;justify-content:space-between;gap:12px;margin:0 0 12px;color:var(--muted);font-size:12px}
+.lp-intro p{margin:0;line-height:1.45}
+.lp-data-note{margin:0 0 9px;color:var(--muted);font-size:10px}
+.lp-data-note summary,.lp-list-filter-details summary{cursor:pointer;color:#526b80;font-weight:650}
+.lp-data-note p{margin:6px 0 0}
+.lp-planner-card{padding:14px 15px;margin-bottom:16px}
+.lp-planner-heading{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-bottom:13px}
+.lp-planner-heading h2{margin:2px 0 0;font-size:14px;font-weight:750;color:var(--ink)}
+.lp-planner-heading .eyebrow{font-size:9px}
+.lp-benefit-switch{flex:none}
+.lp-benefit-switch .btn{min-width:40px;font-size:10px}
+.lp-planner-form{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px 12px;align-items:start}
+.lp-planner-form>.form-label{display:grid;gap:4px;align-content:start;margin:0;color:var(--ink);font-size:10px;font-weight:600}
+.lp-planner-form .form-control,.lp-planner-form .form-select{min-height:33px;padding:5px 9px;border-color:#d5e0eb;border-radius:5px;font-size:12px;font-weight:400}
+.lp-planner-form .form-label small,.lp-planner-form fieldset small{color:var(--muted);font-size:9px;font-weight:400;line-height:1.4}
+.lp-wide{grid-column:1/-1}
+.lp-employee-field{position:relative}
+.lp-employee-results{max-height:220px;margin-top:1px;border-radius:6px}
+.lp-employee-option{padding:7px 9px}
+.lp-employee-option strong{font-size:11px}
+.lp-employee-option small,.lp-employee-option .badge{font-size:9px}
+.lp-planner-form fieldset{min-width:0;margin:0;padding:7px 10px 8px;border:1px solid #dce5ee;border-radius:7px;background:#fff}
+.lp-planner-form fieldset legend{float:none;width:auto;margin:0 0 2px;padding:0 4px;color:var(--ink);font-size:10px;font-weight:700}
+.lp-planner-form .form-check{display:inline-flex;align-items:center;gap:4px;margin:1px 10px 3px 0;padding:0;font-size:11px;font-weight:400}
+.lp-planner-form .form-check-input{float:none;margin:0;accent-color:#2878f2}
+.lp-planner-card>.lp-company-field{display:grid;width:100%;gap:4px;max-width:none;margin:10px 0;color:var(--ink);font-size:11px;font-weight:600}.lp-planner-card>.lp-company-field small{color:var(--muted);font-size:10px;font-weight:400}
+.lp-planner-form fieldset small{display:block;margin-top:4px}
+.lp-payday-choice,.lp-lot-choice{min-height:78px}
+.lp-bank-choice{grid-column:1/-1}
+.lp-rule-missing{display:grid;gap:3px;padding:8px 10px;border:1px solid #f1d79a;border-radius:7px;background:#fff9e8;color:#765b16;font-size:10px}
+.lp-rule-missing span{color:#756d58}
+.lp-form-note{font-size:9px;line-height:1.4}
+.lp-payment-override{display:flex;gap:10px;margin:2px 0 0 18px;padding:4px 8px;border-left:2px solid #cfe0f8}
+.lp-payment-override .form-check{margin-bottom:0}
+.lp-payment-locked{display:inline-block;padding:3px 8px;border:1px solid #cfe0f8;border-radius:6px;background:#f4f8ff;color:#244b7a;font-size:11px}
+.lp-payment-fallback{display:block;color:var(--muted);font-size:10px}
+body[data-theme="dark"] .lp-payment-override{border-color:#3c5e8d}
+body[data-theme="dark"] .lp-payment-locked{background:#172d46;border-color:#3c5e8d;color:#d8e7ff}
+.lp-form-actions{display:flex;align-items:center;gap:8px;margin-top:0}
+.lp-form-actions .btn{padding:6px 11px;font-size:11px;font-weight:650}
+.lp-rule-details{margin-top:10px;padding-top:8px;border-top:1px solid var(--line)}
+.lp-rule-details summary{cursor:pointer;color:#276dc9;font-size:10px;font-weight:700}
+.lp-snapshot-actions{display:flex;align-items:center;justify-content:space-between;gap:10px;padding:8px 10px;border:1px solid #dce5ee;border-radius:7px;background:#f8fafc;font-size:10px}
+.lp-snapshot-actions p{margin:0}
+.lp-calendar-card{padding:12px;margin-top:10px;border-color:#dce6f0;border-radius:9px;background:#f7f9fc;box-shadow:none}
+.lp-calendar-heading{display:flex;align-items:flex-start;justify-content:space-between;gap:10px;margin-bottom:9px}
+.lp-calendar-heading h3{margin:2px 0;font-size:12px;font-weight:750;color:var(--ink)}
+.lp-calendar-heading p,.lp-calendar-source{margin:3px 0 0;color:var(--muted);font-size:9px;line-height:1.4}
+.lp-calendar-heading .eyebrow{font-size:9px}
+.lp-calendar-heading .lp-legend{justify-content:flex-end;max-width:420px;margin-top:2px;gap:5px 9px;font-size:8px}
+.lp-legend i.is-uncovered{background:#f8d7da;border-color:#e99ba2}
+.lp-legend i.is-covered,.lp-legend i.is-bank-yes{background:#bff0d2;border-color:#57c985}
+.lp-legend i.is-bank-no{background:#f8d7da;border-color:#e99ba2}
+.lp-legend i.is-rest{background:#d9e0e8;border-color:#aebdcd}
+.lp-mini-months{display:grid;grid-template-columns:210px minmax(0,1fr);align-items:start;min-height:14px}
+.lp-mini-month-pair{display:flex;flex-direction:column;align-items:stretch;gap:7px;width:200px}
+.lp-mini-month{padding:5px;border:1px solid #dce5ee;border-radius:7px;background:#fff}
+.lp-mini-month h4{display:flex;align-items:baseline;gap:4px;margin:0 0 4px;font-size:9px;font-weight:750;color:#315170;text-transform:capitalize}
+.lp-mini-month h4 small{font-size:7px;font-weight:500;color:#6a7d90;text-transform:none}
+.lp-mini-grid{display:grid;grid-template-columns:repeat(7,minmax(0,1fr));gap:1px}
+.lp-mini-weekday{display:grid;place-items:center;height:13px;color:#718399;font-size:7px;font-weight:650}
+.lp-mini-day,.lp-mini-empty{position:relative;display:grid;place-items:center;min-width:0;height:24px;border:1px solid #e0e6ed;border-radius:3px;background:#fff;color:#263e55;font-size:8px}
+.lp-mini-day b{font-weight:700}
+.lp-mini-day i{position:absolute;right:1px;top:0;color:#50677c;font-size:6px;font-style:normal;font-weight:800}
+.lp-mini-empty{border-color:transparent;background:transparent}
+.lp-mini-day.is-covered,.lp-mini-day.is-bank-yes{border-color:#6bd28e;background:#bff0d2;color:#145e33}
+.lp-mini-day.is-uncovered,.lp-mini-day.is-bank-no{border-color:#f08080;background:#f8d7da;color:#8e2424}
+.lp-mini-day.is-day-off,.lp-mini-day.is-holiday,.lp-mini-day.is-outside-period,.lp-mini-month-bank .lp-mini-day.is-bank-unknown{border-color:#b5c1cf;background:#d9e0e8;color:#4b5b6c}
+.lp-holiday-list{display:grid;gap:4px;margin:8px 0 0;padding:0;list-style:none}
+.lp-holiday-list li{display:flex;align-items:center;gap:7px;padding:5px 8px;border-radius:5px;background:#e1e7ee;color:#526478;font-size:9px}
+.lp-holiday-list strong{flex:none;color:#344d66}
+.lp-calendar-source{margin-top:6px}
+.lp-saved-section{margin-top:18px}
+.lp-saved-section>.lp-section-heading{align-items:flex-end;margin-bottom:8px}
+.lp-saved-section>.lp-section-heading h2{margin:2px 0 0;font-size:14px}
+.lp-list-filter-details{margin:0 0 8px;color:var(--muted);font-size:10px}
+.lp-list-filters{margin-top:7px;padding:9px;border:1px solid var(--line);border-radius:7px;background:#fff}
+.lp-list-filters>label{font-size:9px}
+.lp-empty-card{min-height:48px;display:grid;place-items:center;padding:12px;text-align:center}
+.lp-result-card{padding:14px}
+@media(max-width:720px){.lp-page{padding:12px 10px 28px}.lp-intro{align-items:flex-start}.lp-planner-card{padding:11px}.lp-planner-heading{align-items:flex-start}.lp-planner-form{grid-template-columns:1fr}.lp-company-field,.lp-employee-field,.lp-wide,.lp-bank-choice{grid-column:1}.lp-calendar-heading{flex-direction:column}.lp-calendar-heading .lp-legend{justify-content:flex-start}.lp-mini-months{grid-template-columns:1fr}.lp-mini-month-pair{width:min(100%,240px)}.lp-snapshot-actions{align-items:flex-start;flex-direction:column}}
+.lp-readonly-note{margin:-3px 0 10px;padding:6px 9px;border-left:3px solid #9bb8d4;border-radius:4px;background:#f3f7fb;color:#607487;font-size:9px}
+.lp-planner-form>.form-label{font-size:11px}
+.lp-planner-form .form-label small,.lp-planner-form fieldset small{font-size:10px}
+.lp-planner-form fieldset legend{font-size:11px}
+.lp-planner-form .form-check{font-size:12px}
+.lp-form-actions .btn{font-size:12px}
+.lp-mini-day.is-unset{border-color:#e0e6ed;background:#fff;color:#526478}
+body[data-theme="dark"] .lp-mini-day.is-unset{border-color:#33495c;background:#142433;color:#e6edf4}
+
+/* Calendários sincronizados da prévia: mantém cobertura, relação bancária e feriado distinguíveis. */
+.lp-calendar-heading{align-items:center}
+.lp-calendar-heading .lp-month-controls{display:flex;align-items:center;gap:6px;flex-wrap:wrap}
+.lp-month-controls strong{min-width:128px;text-align:center;color:var(--ink);font-size:10px;text-transform:capitalize}
+.lp-mini-months{display:flex;flex-direction:column;align-items:flex-start;gap:7px;min-height:0}
+.lp-mini-month{width:min(100%,270px)}
+.lp-mini-grid{gap:2px}
+.lp-mini-day{appearance:none;padding:0;cursor:pointer;line-height:1}
+.lp-mini-day:hover{filter:brightness(.96)}
+.lp-mini-day:focus-visible{z-index:1;outline:2px solid #145ec4;outline-offset:1px}
+.lp-mini-day.is-other-month{opacity:.48}
+.lp-mini-day.is-selected{outline:2px solid #173d6b;outline-offset:0}
+.lp-mini-day.is-bank-unknown{border-style:dashed}
+.lp-mini-day.is-bank-unknown .lp-day-state{font-size:7px}
+.lp-day-holiday-mark{left:2px;right:auto!important;top:1px!important;display:grid;place-items:center;min-width:9px;height:9px;border-radius:50%;background:#596a7a;color:#fff!important;font-size:6px!important}
+.lp-legend i.is-rest{background:#d9e0e8;border-color:#aebdcd}
+.lp-legend i.is-bank-unknown{border-style:dashed;background:#eef1f4}
+.lp-legend i.is-holiday{background:#596a7a;border-color:#596a7a}
+.lp-legend-groups{gap:5px 12px;margin:0 0 8px;font-size:8px}
+.lp-day-detail{display:grid;gap:4px;margin-top:8px;padding:8px 9px;border:1px solid #b7cce5;border-radius:7px;background:#f5f9ff;color:var(--ink);font-size:9px;line-height:1.4}
+.lp-day-detail>div{display:flex;align-items:flex-start;justify-content:space-between;gap:8px}
+.lp-day-detail .btn-close{flex:none;width:10px;height:10px;padding:2px}
+.lp-holiday-heading{margin:9px 0 0;color:var(--ink);font-size:10px;font-weight:700}
+.lp-save-blocked{grid-column:1/-1;color:#9a4d12!important;font-size:10px}
+.lp-result-summary{grid-template-columns:repeat(auto-fit,minmax(140px,1fr))}
+body[data-theme="dark"] .lp-calendar-card{background:#142433;border-color:#2b4052;color:#e6edf4}
+body[data-theme="dark"] .lp-calendar-heading h3,body[data-theme="dark"] .lp-month-controls strong,body[data-theme="dark"] .lp-holiday-heading{color:#e6edf4}
+body[data-theme="dark"] .lp-mini-month{background:#0f1f2d;border-color:#2b4052}
+body[data-theme="dark"] .lp-mini-month h4{color:#c9ddf2}
+body[data-theme="dark"] .lp-mini-day.is-covered,body[data-theme="dark"] .lp-mini-day.is-bank-yes{background:#24563c;border-color:#4b9c6d;color:#e2ffed}
+body[data-theme="dark"] .lp-mini-day.is-uncovered,body[data-theme="dark"] .lp-mini-day.is-bank-no{background:#542f35;border-color:#a65760;color:#ffe7e9}
+body[data-theme="dark"] .lp-mini-day.is-day-off,body[data-theme="dark"] .lp-mini-day.is-holiday,body[data-theme="dark"] .lp-mini-day.is-outside-period,body[data-theme="dark"] .lp-mini-month-bank .lp-mini-day.is-bank-unknown{background:#303d49;border-color:#566779;color:#d8e2ec}
+body[data-theme="dark"] .lp-mini-day.is-unset{background:#0f1f2d;border-color:#33495c;color:#e6edf4}
+body[data-theme="dark"] .lp-holiday-list li{background:#263747;color:#cad7e3}
+body[data-theme="dark"] .lp-day-detail{background:#182b3a;border-color:#36516b;color:#e6edf4}
+@media(max-width:720px){.lp-calendar-heading{align-items:flex-start}.lp-calendar-heading .lp-month-controls{width:100%;justify-content:flex-start}.lp-mini-month{width:min(100%,270px)}}
+.lp-list-filters .lp-clear-filters{justify-self:start;align-self:end}
+.lp-pagination{display:flex;align-items:center;justify-content:center;gap:10px;margin-top:10px;color:var(--muted);font-size:10px}
+.lp-pagination .btn{font-size:10px}
+.lp-employee-option.is-active{background:#eaf2ff;outline:2px solid #8db8f4;outline-offset:-2px}
+body[data-theme="dark"] .lp-employee-option.is-active{background:#203a56;outline-color:#5c8cc4}
+.lp-payment-options{display:flex;flex-wrap:wrap;gap:8px 14px}.lp-manual-policy-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:9px 12px;padding:10px;border:1px solid var(--line);border-radius:8px;background:#f8fafc}.lp-manual-policy-grid>.form-label{display:grid;align-content:start;gap:4px;margin:0;color:var(--ink);font-size:10px;font-weight:600}.lp-manual-policy-grid>strong{font-size:11px;color:var(--ink)}.lp-manual-policy-grid>small{color:var(--muted);font-size:9px;line-height:1.4}
+body[data-theme="dark"] .lp-manual-policy-grid{background:#182b3a;border-color:#2b4052}
+@media(max-width:720px){.lp-manual-policy-grid{grid-template-columns:1fr}.lp-manual-policy-grid>.lp-wide{grid-column:1}}
+
+/* Planejamento de Lotes: adapta os controles e calendários a telas estreitas. */
+.lp-page,.lp-planner-card,.lp-result-card,.lp-calendar-card,.lp-saved-section{min-width:0}
+.lp-page{width:min(100%,970px)}
+.lp-planner-form>* ,.lp-rule-form>* ,.lp-result-summary>*{min-width:0}
+.lp-planner-form .form-control,.lp-planner-form .form-select,.lp-rule-form .form-control,.lp-rule-form .form-select{width:100%;max-width:100%}
+.lp-calendar-card{overflow:hidden}
+.lp-mini-month{min-width:0}
+.lp-table-wrap{width:100%;max-width:100%;overflow-x:auto;-webkit-overflow-scrolling:touch}
+.lp-table-wrap table{min-width:680px}
+.lp-saved-card,.lp-saved-open,.lp-saved-actions{min-width:0}
+.lp-saved-actions{flex-wrap:wrap}
+.lp-holiday-list li{min-width:0;align-items:flex-start}
+.lp-holiday-list li span{min-width:0;overflow-wrap:anywhere}
+.lp-day-detail>div{min-width:0;flex-wrap:wrap}
+.lp-day-detail>div strong{min-width:0;overflow-wrap:anywhere}
+
+@media(max-width:720px){
+  .lp-page{padding:12px 10px 28px}
+  .lp-intro,.lp-planner-heading,.lp-section-heading{min-width:0}
+  .lp-intro>* ,.lp-planner-heading>* ,.lp-section-heading>*{max-width:100%}
+  .lp-planner-card{padding:11px}
+  .lp-planner-form,.lp-rule-form{grid-template-columns:minmax(0,1fr)}
+  .lp-planner-form>.form-label,.lp-rule-form>.form-label,.lp-rule-form .lp-rule-reason,.lp-rule-origin,.lp-wide,.lp-bank-choice{grid-column:1}
+  .lp-planner-form fieldset{width:100%;max-width:100%}
+  .lp-planner-form .form-check{max-width:100%;white-space:normal}
+  .lp-form-actions{flex-wrap:wrap}
+  .lp-form-actions .btn{min-height:40px;max-width:100%}
+  .lp-calendar-heading{align-items:flex-start;flex-direction:column}
+  .lp-calendar-heading>div{width:100%;min-width:0}
+  .lp-calendar-heading .lp-month-controls{width:100%;justify-content:flex-start;flex-wrap:wrap}
+  .lp-month-controls strong{min-width:0;flex:1;text-align:center}
+  .lp-calendar-heading .lp-legend{justify-content:flex-start;max-width:none}
+  .lp-mini-months{width:100%;align-items:stretch}
+  .lp-mini-month-pair{width:100%;max-width:none}
+  .lp-mini-month{width:100%;max-width:none}
+  .lp-mini-day,.lp-mini-empty{height:32px;font-size:10px}
+  .lp-mini-day i{font-size:7px}
+  .lp-result-summary{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .lp-result-summary>div{overflow-wrap:anywhere}
+  .lp-save-row{grid-template-columns:minmax(0,1fr)}
+  .lp-save-row>div{display:flex;flex-wrap:wrap;gap:8px;justify-self:start}
+  .lp-save-row>div .btn{margin:0!important;min-height:40px}
+  .lp-saved-card{grid-template-columns:minmax(0,1fr)}
+  .lp-saved-actions{justify-content:flex-start}
+  .lp-saved-actions .btn{min-height:36px}
+  .lp-expiry{grid-column:1}
+  .lp-list-filters{grid-template-columns:minmax(0,1fr)}
+  .lp-list-filters>label:first-child{grid-column:1}
+  .lp-snapshot-actions{align-items:stretch;flex-direction:column}
+  .lp-snapshot-actions>.btn{align-self:flex-start;max-width:100%}
+  .lp-employee-summary{grid-template-columns:repeat(2,minmax(0,1fr))}
+}
+
+@media(max-width:420px){
+  .lp-page{padding-inline:8px}
+  .lp-planner-card,.lp-result-card{padding:9px}
+  .lp-benefit-switch{display:flex;width:100%}
+  .lp-benefit-switch .btn{flex:1}
+  .lp-payment-override{margin-left:0;flex-wrap:wrap}
+  .lp-result-summary,.lp-employee-summary{grid-template-columns:minmax(0,1fr)}
+  .lp-result-summary>div:first-child{grid-column:1}
+  .lp-calendar-card{padding:8px}
+  .lp-calendar-heading .lp-month-controls{gap:4px}
+  .lp-month-controls strong{font-size:9px}
+  .lp-mini-month{padding:4px}
+  .lp-mini-day,.lp-mini-empty{height:28px;font-size:9px}
+  .lp-legend{gap:6px 9px}
+  .lp-holiday-list li{gap:5px;padding:5px 6px}
+  .lp-holiday-list li strong{flex:0 0 auto}
+  .lp-pagination{gap:6px;flex-wrap:wrap}
+  .lp-pagination .btn{min-height:36px}
+  .lp-table-wrap table{min-width:640px}
+}
+
+/* Usa a largura útil da tela no planejamento de lotes. */
+.lp-page{width:100%;max-width:none;margin-inline:0}

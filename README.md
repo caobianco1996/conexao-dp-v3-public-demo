@@ -35,4 +35,3 @@ Integrações externas ficam desativadas. Não configure SMTP, Clicksign, Z-PRO,
 ## Conteúdo público
 
 A pasta `dados/`, bancos, backups, logs, documentos, exports, capturas e histórico Git da pasta original não fazem parte desta cópia. Revise arquivos antes de publicar e nunca inclua dados de RH ou credenciais.
-

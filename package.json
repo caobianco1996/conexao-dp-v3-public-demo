@@ -1,0 +1,18 @@
+{
+	"private": true,
+	"type": "module",
+	"scripts": {
+		"build:cases": "vite build --config frontend/cases/vite.config.js",
+		"build:chat": "vite build --config frontend/chat/vite.config.js",
+		"dev:next": "next dev frontend/next -p 8794",
+		"build:next": "next build frontend/next"
+	},
+	"dependencies": {
+		"react": "^19.3.0",
+		"react-dom": "^19.3.0",
+		"bootstrap": "^5.3.8",
+		"next": "16.3.4",
+		"vite": "^8.3.4",
+		"@vitejs/plugin-react": "^6.1.2"
+	}
+}

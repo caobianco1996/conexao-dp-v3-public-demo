@@ -1,0 +1,799 @@
+{
+  "home": {
+    "icon": "home",
+    "label": "Início",
+    "href": "/central-dp/inicio"
+  },
+  "groups": [
+    {
+      "id": "operations",
+      "label": "Operações de DP",
+      "icon": "workflow",
+      "items": [
+        {
+          "icon": "workflow",
+          "label": "Processos",
+          "href": "/central-dp/processos"
+        },
+        {
+          "icon": "checklist",
+          "label": "Casos e checklists",
+          "href": "/central-dp/casos"
+        },
+        {
+          "icon": "calendarPlus",
+          "label": "Prorrogações",
+          "href": "/central-dp/prorrogacoes"
+        },
+        {
+          "icon": "heartPulse",
+          "label": "Afastamentos",
+          "href": "/central-dp/afastamentos"
+        },
+        {
+          "icon": "fileX",
+          "label": "Rescisões",
+          "href": "/central-dp/rescisoes"
+        },
+        {
+          "icon": "signature",
+          "label": "Assinaturas",
+          "href": "/central-dp/assinaturas"
+        }
+      ]
+    },
+    {
+      "id": "registry",
+      "label": "Cadastros e dados",
+      "icon": "users",
+      "items": [
+        {
+          "icon": "users",
+          "label": "Pessoas",
+          "href": "/cadastros/pessoas"
+        },
+        {
+          "icon": "link",
+          "label": "Vínculos",
+          "href": "/cadastros/vinculos"
+        },
+        {
+          "icon": "building",
+          "label": "Empresas",
+          "href": "/cadastros/empresas"
+        },
+        {
+          "icon": "alert",
+          "label": "Conflitos",
+          "href": "/cadastros/conflitos"
+        },
+        {
+          "icon": "plug",
+          "label": "Integrações",
+          "href": "/central-dp/integracoes"
+        },
+        {
+          "icon": "shieldCheck",
+          "label": "Qualidade dos dados",
+          "href": "/analytics/qualidade"
+        }
+      ]
+    },
+    {
+      "id": "routines",
+      "label": "Rotinas e ferramentas",
+      "icon": "calendar",
+      "items": [
+        {
+          "icon": "users",
+          "label": "Organização do setor",
+          "href": "/rotinas/setor"
+        },
+        {
+          "icon": "calendar",
+          "label": "Calendário DP",
+          "href": "/rotinas/calendario"
+        },
+        {
+          "icon": "layers",
+          "label": "Planejamento de lotes",
+          "href": "/rotinas/planejamento-lotes"
+        },
+        {
+          "icon": "calculator",
+          "label": "Calculadoras DP",
+          "href": "/rotinas/calculadoras"
+        },
+        {
+          "icon": "receipt",
+          "label": "Tributos",
+          "href": "/rotinas/tributos"
+        }
+      ]
+    },
+    {
+      "id": "communication",
+      "label": "Comunicação e envios",
+      "icon": "mailClock",
+      "items": [
+        {
+          "icon": "mailClock",
+          "label": "Envios automáticos",
+          "href": "/comunicacao/envios-automaticos"
+        },
+        {
+          "icon": "mail",
+          "label": "E-mail de teste",
+          "href": "/central-dp/email"
+        },
+        {
+          "icon": "chat",
+          "label": "Chat da equipe",
+          "href": "/central-dp/chat"
+        },
+        {
+          "icon": "messageBolt",
+          "label": "Mensagens rápidas",
+          "href": "/central-dp/mensagens"
+        },
+        {
+          "icon": "microphone",
+          "label": "VoxFy",
+          "href": "/central-dp/voxfy"
+        }
+      ]
+    },
+    {
+      "id": "analytics",
+      "label": "People Analytics",
+      "icon": "chartArea",
+      "items": [
+        {
+          "icon": "chartArea",
+          "label": "Visão geral",
+          "href": "/analytics/visao-geral"
+        },
+        {
+          "icon": "movements",
+          "label": "Movimentações",
+          "href": "/analytics/admitidos-demitidos"
+        },
+        {
+          "icon": "buildingChart",
+          "label": "Análise por empresa",
+          "href": "/analytics/empresas"
+        },
+        {
+          "icon": "userCheck",
+          "label": "Perfil dos ativos",
+          "href": "/analytics/perfil-ativos"
+        },
+        {
+          "icon": "hourglass",
+          "label": "Retenção e permanência",
+          "href": "/analytics/retencao"
+        },
+        {
+          "icon": "files",
+          "label": "Tipos de contrato",
+          "href": "/analytics/tipos-contrato"
+        }
+      ]
+    },
+    {
+      "id": "reports",
+      "label": "Relatórios e consultas",
+      "icon": "spreadsheet",
+      "items": [
+        {
+          "icon": "spreadsheet",
+          "label": "Relatórios Excel",
+          "href": "/analytics/relatorios"
+        },
+        {
+          "icon": "table",
+          "label": "Explorar registros",
+          "href": "/analytics/tabelas"
+        }
+      ]
+    },
+    {
+      "id": "admin",
+      "label": "Administração",
+      "icon": "key",
+      "items": [
+        {
+          "icon": "key",
+          "label": "Contas e permissões",
+          "href": "/administracao/contas"
+        },
+        {
+          "icon": "folderLock",
+          "label": "Arquivos privados",
+          "href": "/administracao/arquivos"
+        },
+        {
+          "icon": "audit",
+          "label": "Auditoria",
+          "href": "/administracao/auditoria"
+        },
+        {
+          "icon": "backup",
+          "label": "Backup e recuperação",
+          "href": "/administracao/backup"
+        }
+      ]
+    },
+    {
+      "id": "help",
+      "label": "Ajuda e guias",
+      "icon": "book",
+      "items": [
+        {
+          "icon": "book",
+          "label": "Manuais",
+          "href": "/central-dp/manuais"
+        },
+        {
+          "icon": "help",
+          "label": "Como usar Analytics",
+          "href": "/analytics-pro/como-usar"
+        }
+      ]
+    }
+  ],
+  "icons": {
+    "home": [
+      {
+        "tag": "path",
+        "attrs": {
+          "d": "m3 10 9-7 9 7M5 9v12h5v-7h4v7h5V9"
+        }
+      }
+    ],
+    "workflow": [
+      {
+        "tag": "rect",
+        "attrs": {
+          "x": 3,
+          "y": 3,
+          "width": 6,
+          "height": 6,
+          "rx": 1
+        }
+      },
+      {
+        "tag": "rect",
+        "attrs": {
+          "x": 15,
+          "y": 15,
+          "width": 6,
+          "height": 6,
+          "rx": 1
+        }
+      },
+      {
+        "tag": "rect",
+        "attrs": {
+          "x": 3,
+          "y": 15,
+          "width": 6,
+          "height": 6,
+          "rx": 1
+        }
+      },
+      {
+        "tag": "path",
+        "attrs": {
+          "d": "M6 9v6M9 6h7a2 2 0 0 1 2 2v7"
+        }
+      }
+    ],
+    "checklist": [
+      {
+        "tag": "rect",
+        "attrs": {
+          "x": 5,
+          "y": 3,
+          "width": 15,
+          "height": 18,
+          "rx": 2
+        }
+      },
+      {
+        "tag": "path",
+        "attrs": {
+          "d": "m8 8 1 1 2-2M14 8h3m-9 5 1 1 2-2M14 13h3M8 18h9"
+        }
+      }
+    ],
+    "calendarPlus": [
+      {
+        "tag": "rect",
+        "attrs": {
+          "x": 3,
+          "y": 4,
+          "width": 18,
+          "height": 17,
+          "rx": 2
+        }
+      },
+      {
+        "tag": "path",
+        "attrs": {
+          "d": "M8 2v4M16 2v4M3 10h18M12 13v6M9 16h6"
+        }
+      }
+    ],
+    "fileX": [
+      {
+        "tag": "path",
+        "attrs": {
+          "d": "M14 2H5v20h14V7zM14 2v5h5m-10 5 6 6m0-6-6 6"
+        }
+      }
+    ],
+    "signature": [
+      {
+        "tag": "path",
+        "attrs": {
+          "d": "M3 21h18M4 17l3-1L19 4l-3-3L4 13zM13 4l3 3M4 7h5M4 3h7"
+        }
+      }
+    ],
+    "users": [
+      {
+        "tag": "circle",
+        "attrs": {
+          "cx": 9,
+          "cy": 7,
+          "r": 3
+        }
+      },
+      {
+        "tag": "path",
+        "attrs": {
+          "d": "M3 21v-3a6 6 0 0 1 12 0v3M16 4a3 3 0 0 1 0 6M21 21v-3a6 6 0 0 0-4-5"
+        }
+      }
+    ],
+    "link": [
+      {
+        "tag": "path",
+        "attrs": {
+          "d": "m10 13 4-4M8 16l-2 2a4 4 0 0 1-6-6l4-4a4 4 0 0 1 6 0M16 8l2-2a4 4 0 0 1 6 6l-4 4a4 4 0 0 1-6 0"
+        }
+      }
+    ],
+    "building": [
+      {
+        "tag": "rect",
+        "attrs": {
+          "x": 5,
+          "y": 2,
+          "width": 14,
+          "height": 20,
+          "rx": 1
+        }
+      },
+      {
+        "tag": "path",
+        "attrs": {
+          "d": "M9 6h2M14 6h1M9 10h2M14 10h1M9 14h2M14 14h1M10 22v-4h4v4M2 22h20"
+        }
+      }
+    ],
+    "alert": [
+      {
+        "tag": "path",
+        "attrs": {
+          "d": "m12 3 10 18H2zM12 9v5M12 18h.01"
+        }
+      }
+    ],
+    "plug": [
+      {
+        "tag": "path",
+        "attrs": {
+          "d": "M8 3v5M16 3v5M6 8h12v3a6 6 0 0 1-12 0zM12 17v5M3 5h2M19 5h2"
+        }
+      }
+    ],
+    "shieldCheck": [
+      {
+        "tag": "path",
+        "attrs": {
+          "d": "m12 2 8 4v6c0 5-4 8-8 10-4-2-8-5-8-10V6zM8 12l3 3 5-6"
+        }
+      }
+    ],
+    "databaseRefresh": [
+      {
+        "tag": "path",
+        "attrs": {
+          "d": "M3 6c0-4 18-4 18 0s-18 4-18 0v10c0 3 9 4 14 2M21 6v5M3 11c0 3 9 4 14 2M19 15v4h4M23 19a5 5 0 0 0-8-4"
+        }
+      }
+    ],
+    "calendar": [
+      {
+        "tag": "rect",
+        "attrs": {
+          "x": 3,
+          "y": 4,
+          "width": 18,
+          "height": 17,
+          "rx": 2
+        }
+      },
+      {
+        "tag": "path",
+        "attrs": {
+          "d": "M8 2v4M16 2v4M3 10h18M7 14h2M12 14h2M17 14h.01M7 18h2M12 18h2"
+        }
+      }
+    ],
+    "layers": [
+      {
+        "tag": "path",
+        "attrs": {
+          "d": "m12 2 10 5-10 5L2 7zM2 12l10 5 10-5M2 17l10 5 10-5"
+        }
+      }
+    ],
+    "calculator": [
+      {
+        "tag": "rect",
+        "attrs": {
+          "x": 4,
+          "y": 2,
+          "width": 16,
+          "height": 20,
+          "rx": 2
+        }
+      },
+      {
+        "tag": "path",
+        "attrs": {
+          "d": "M8 6h8M8 10h1M12 10h1M16 10h.01M8 14h1M12 14h1M16 14v4M8 18h1M12 18h1"
+        }
+      }
+    ],
+    "receipt": [
+      {
+        "tag": "path",
+        "attrs": {
+          "d": "M4 2v20l4-2 4 2 4-2 4 2V2l-4 2-4-2-4 2zM8 8h8M8 12h4M8 16h3M16 12v4"
+        }
+      }
+    ],
+    "mailClock": [
+      {
+        "tag": "rect",
+        "attrs": {
+          "x": 2,
+          "y": 4,
+          "width": 20,
+          "height": 14,
+          "rx": 2
+        }
+      },
+      {
+        "tag": "path",
+        "attrs": {
+          "d": "m2 5 10 7L22 5M18 17v3l2 1"
+        }
+      },
+      {
+        "tag": "circle",
+        "attrs": {
+          "cx": 18,
+          "cy": 18,
+          "r": 5
+        }
+      }
+    ],
+    "mail": [
+      {
+        "tag": "rect",
+        "attrs": {
+          "x": 3,
+          "y": 5,
+          "width": 18,
+          "height": 14,
+          "rx": 2
+        }
+      },
+      {
+        "tag": "path",
+        "attrs": {
+          "d": "m3 7 9 6 9-6M7 22h10"
+        }
+      }
+    ],
+    "chat": [
+      {
+        "tag": "path",
+        "attrs": {
+          "d": "M21 15a3 3 0 0 1-3 3H9l-6 4V6a3 3 0 0 1 3-3h12a3 3 0 0 1 3 3zM7 8h10M7 12h7"
+        }
+      }
+    ],
+    "messageBolt": [
+      {
+        "tag": "path",
+        "attrs": {
+          "d": "M14 3H5a3 3 0 0 0-3 3v15l5-4h10a3 3 0 0 0 3-3v-2M19 2l-5 6h4l-1 5 6-7h-4z"
+        }
+      }
+    ],
+    "microphone": [
+      {
+        "tag": "rect",
+        "attrs": {
+          "x": 9,
+          "y": 2,
+          "width": 6,
+          "height": 12,
+          "rx": 3
+        }
+      },
+      {
+        "tag": "path",
+        "attrs": {
+          "d": "M5 10v2a7 7 0 0 0 14 0v-2M12 19v3M8 22h8"
+        }
+      }
+    ],
+    "chartArea": [
+      {
+        "tag": "path",
+        "attrs": {
+          "d": "M3 3v18h19M6 17l4-6 4 3 6-9M6 17h14"
+        }
+      }
+    ],
+    "movements": [
+      {
+        "tag": "path",
+        "attrs": {
+          "d": "M7 3v17m-4-4 4 4 4-4M17 21V4m-4 4 4-4 4 4"
+        }
+      }
+    ],
+    "userPlus": [
+      {
+        "tag": "circle",
+        "attrs": {
+          "cx": 9,
+          "cy": 7,
+          "r": 4
+        }
+      },
+      {
+        "tag": "path",
+        "attrs": {
+          "d": "M2 21v-2a7 7 0 0 1 14 0v2M19 7v8M15 11h8"
+        }
+      }
+    ],
+    "userMinus": [
+      {
+        "tag": "circle",
+        "attrs": {
+          "cx": 9,
+          "cy": 7,
+          "r": 4
+        }
+      },
+      {
+        "tag": "path",
+        "attrs": {
+          "d": "M2 21v-2a7 7 0 0 1 14 0v2M15 11h8"
+        }
+      }
+    ],
+    "buildingChart": [
+      {
+        "tag": "rect",
+        "attrs": {
+          "x": 3,
+          "y": 2,
+          "width": 18,
+          "height": 20,
+          "rx": 1
+        }
+      },
+      {
+        "tag": "path",
+        "attrs": {
+          "d": "M7 6h2M13 6h4M7 18v-4M12 18v-7M17 18v-5"
+        }
+      }
+    ],
+    "userCheck": [
+      {
+        "tag": "circle",
+        "attrs": {
+          "cx": 9,
+          "cy": 7,
+          "r": 4
+        }
+      },
+      {
+        "tag": "path",
+        "attrs": {
+          "d": "M2 21v-2a7 7 0 0 1 14 0v2m0-10 3 3 5-6"
+        }
+      }
+    ],
+    "hourglass": [
+      {
+        "tag": "path",
+        "attrs": {
+          "d": "M5 2h14M5 22h14M7 2v5l5 5-5 5v5M17 2v5l-5 5 5 5v5M8 18h8"
+        }
+      }
+    ],
+    "files": [
+      {
+        "tag": "path",
+        "attrs": {
+          "d": "M15 2H6v17h14V7zM15 2v5h5M3 6v16h13M9 11h8M9 15h5"
+        }
+      }
+    ],
+    "badgeCheck": [
+      {
+        "tag": "path",
+        "attrs": {
+          "d": "m12 2 3 2 4 1 1 4 2 3-2 3-1 4-4 1-3 2-3-2-4-1-1-4-2-3 2-3 1-4 4-1zM8 12l3 3 5-6"
+        }
+      }
+    ],
+    "chartColumns": [
+      {
+        "tag": "path",
+        "attrs": {
+          "d": "M3 3v18h19M7 17v-5M12 17V7M17 17v-9"
+        }
+      }
+    ],
+    "sparkles": [
+      {
+        "tag": "path",
+        "attrs": {
+          "d": "m12 3 2 6 6 2-6 2-2 6-2-6-6-2 6-2zM20 2v4M18 4h4M4 17v5M2 19h4"
+        }
+      }
+    ],
+    "spreadsheet": [
+      {
+        "tag": "path",
+        "attrs": {
+          "d": "M14 2H4v20h16V8zM14 2v6h6M7 12h10M7 16h10M11 10v10"
+        }
+      }
+    ],
+    "table": [
+      {
+        "tag": "rect",
+        "attrs": {
+          "x": 2,
+          "y": 3,
+          "width": 20,
+          "height": 18,
+          "rx": 2
+        }
+      },
+      {
+        "tag": "path",
+        "attrs": {
+          "d": "M2 9h20M2 15h20M8 9v12M15 9v12"
+        }
+      }
+    ],
+    "key": [
+      {
+        "tag": "circle",
+        "attrs": {
+          "cx": 8,
+          "cy": 9,
+          "r": 5
+        }
+      },
+      {
+        "tag": "path",
+        "attrs": {
+          "d": "m12 13 9 9M17 18l3-3M14 15l3-3"
+        }
+      }
+    ],
+    "folderLock": [
+      {
+        "tag": "path",
+        "attrs": {
+          "d": "M21 10V7a2 2 0 0 0-2-2h-7L9 2H3a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h8M15 15v-3a3 3 0 0 1 6 0v3"
+        }
+      },
+      {
+        "tag": "rect",
+        "attrs": {
+          "x": 13,
+          "y": 15,
+          "width": 10,
+          "height": 8,
+          "rx": 1
+        }
+      }
+    ],
+    "audit": [
+      {
+        "tag": "path",
+        "attrs": {
+          "d": "M5 3h14v19H5zM9 7h6M9 11h6M9 15h3M2 5h3M2 9h3M2 13h3M2 17h3"
+        }
+      },
+      {
+        "tag": "circle",
+        "attrs": {
+          "cx": 17,
+          "cy": 17,
+          "r": 3
+        }
+      },
+      {
+        "tag": "path",
+        "attrs": {
+          "d": "m19 19 3 3"
+        }
+      }
+    ],
+    "backup": [
+      {
+        "tag": "path",
+        "attrs": {
+          "d": "M3 6c0-4 18-4 18 0s-18 4-18 0v12c0 3 9 4 14 2M21 6v5M3 12c0 3 9 4 14 2M19 22v-9m-3 3 3-3 3 3"
+        }
+      }
+    ],
+    "book": [
+      {
+        "tag": "path",
+        "attrs": {
+          "d": "M12 5v17M2 3h5a5 5 0 0 1 5 3 5 5 0 0 1 5-3h5v16h-5a5 5 0 0 0-5 3 5 5 0 0 0-5-3H2z"
+        }
+      }
+    ],
+    "help": [
+      {
+        "tag": "circle",
+        "attrs": {
+          "cx": 12,
+          "cy": 12,
+          "r": 10
+        }
+      },
+      {
+        "tag": "path",
+        "attrs": {
+          "d": "M9 8a3 3 0 1 1 5 3c-2 1-2 2-2 3M12 18h.01"
+        }
+      }
+    ],
+    "heartPulse": [
+      {
+        "tag": "path",
+        "attrs": {
+          "d": "M20.8 4.6a5.5 5.5 0 0 0-7.8 0L12 5.7l-1.1-1.1a5.5 5.5 0 0 0-7.8 7.8L12 21l8.8-8.6a5.5 5.5 0 0 0 0-7.8Z"
+        }
+      },
+      {
+        "tag": "path",
+        "attrs": {
+          "d": "M3 12h4l2-4 4 8 2-4h6"
+        }
+      }
+    ]
+  }
+}

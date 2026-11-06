@@ -1,0 +1,6 @@
+.team-chat-mount .visually-hidden{position:absolute!important;width:1px!important;height:1px!important;padding:0!important;margin:-1px!important;overflow:hidden!important;clip:rect(0,0,0,0)!important;white-space:nowrap!important;border:0!important}
+.team-chat-mount .chat-workspace,.team-chat-mount .floating-chat-launch{font-family:system-ui,-apple-system,"Segoe UI",sans-serif}
+.team-chat-mount .profile-avatar-portrait{display:block;box-sizing:border-box}
+.chat-page-mount{height:calc(100dvh - 120px);min-height:420px;max-width:1500px;margin:auto}
+.chat-page-mount>.team-chat-mount{height:100%;min-height:0}
+@media(max-width:720px){.chat-page-mount{height:calc(100dvh - 100px);min-height:380px}}
